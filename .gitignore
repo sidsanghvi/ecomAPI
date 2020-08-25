@@ -1,3 +1,4 @@
 .vscode
 Pipfile
 .pylintrc
+secrets.py
